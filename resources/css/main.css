@@ -1,0 +1,74 @@
+/* Global Styles */
+
+body {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+
+/* Header Styles */
+
+header {
+	background-image: url('../images/the-flatiron-building.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+header h1 {
+	color: white;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.main-menu a {
+	color: white;
+	display: block;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 6px;
+}
+
+/* Process Section Styles */
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 14px;
+}
+
+/* Info Section Styles */
+
+.info-section h2 {
+	color: white;
+	font-size: 23px;
+	font-weight: bold;
+	background-image: url('../images/the-flatiron-building.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+/* Footer Styles */
+
+footer {
+	text-align: left;
+	color: white;
+	background-color: gray;
+}
+footer p {
+	color: white;
+	font-size: 11px;
+	margin: 0 5px 0 0;	
+	display: inline;
+}
+
+footer a {
+	color: white;
+}
